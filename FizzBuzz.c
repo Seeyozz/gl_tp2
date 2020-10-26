@@ -16,5 +16,5 @@ int main(void){
             printf("%d\n", i);
         }
     }
-    return EXIT_SUCCES;
+    return 0;
 }
